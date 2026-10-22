@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListaDeCompras</string>
+    <string name="productos_titulo">Productos:\n%1$s</string>
+</resources>
